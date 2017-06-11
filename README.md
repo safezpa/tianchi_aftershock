@@ -19,6 +19,10 @@
 
 ### 运行
 
+下载源码
+
+```git clone https://github.com/safezpa/tianchi_aftershock.git
+
 在终端或命令行窗口中，选定`tianchi_aftershock/`的目录下（包含此README文件），运行下方的命令：
 
 ```jupyter notebook tianchi_aftershock.ipynb```
