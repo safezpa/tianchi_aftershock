@@ -1,0 +1,17 @@
+staion       longitude    latitude
+GS.WDT       104.99       33.36
+GS.WXT       104.68       32.95
+SN.LUYA      106.14       33.36
+SN.MIAX      106.80       33.23
+XX.HSH       102.99       32.06
+XX.JJS       104.55       31.00
+XX.JMG       105.56       32.21
+XX.MXI       103.85       31.68
+XX.PWU       104.55       32.42
+XX.QCH       105.23       32.59
+XX.SPA       103.60       32.65
+XX.WCH       103.59       31.48
+XX.XCO       105.90       31.02
+XX.XJI       102.36       31.00
+XX.YGD       104.10       30.20
+XX.YZP       103.57       30.87
